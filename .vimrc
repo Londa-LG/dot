@@ -14,7 +14,7 @@ syntax enable
 
 " Highlight current line
 set cursorline
-:highlight Cursorline cterm=bold ctermbg=black
+colorscheme desert
 
 " FIND FILES:
 
@@ -28,5 +28,3 @@ set wildmenu
 " NOW WE CAN:
 " - Hit tab to :find by partial match
 " - Use * to make it fuzzy
-
-
