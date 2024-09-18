@@ -2,9 +2,14 @@
 set number
 set relativenumber
 
+set t_Co=256
 
 " Tab spaces
 set tabstop=4
+set shiftwidth=4
+set smarttab
+set expandtab
+set autoindent
 
 " Forget about being like vi
 "set nocompatible
@@ -15,6 +20,7 @@ syntax enable
 " Highlight current line
 set cursorline
 colorscheme desert
+"colorscheme elflord
 
 " FIND FILES:
 
