@@ -1,2 +1,2 @@
 # dot
-Where I keep my config files
+Where I keep my config files and scripts.
