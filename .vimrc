@@ -1,6 +1,16 @@
+"=================
+" Plugins (using vim-plug)
+"=================
+call plug#begin()
+
+Plug 'nordtheme/vim'
+
+call plug#end()
+
+
 " Show line numbers
 set number
-set relativenumber
+"set relativenumber
 
 set t_Co=256
 
@@ -19,8 +29,18 @@ syntax enable
 
 " Highlight current line
 set cursorline
-colorscheme desert
-"colorscheme elflord
+
+" True colour
+set termguicolors
+
+" Colourscheme
+colorscheme nord
+
+" Highlight search
+"set hlsearch
+
+" Ingnore case
+"set ignorecase
 
 " FIND FILES:
 
@@ -34,3 +54,4 @@ set wildmenu
 " NOW WE CAN:
 " - Hit tab to :find by partial match
 " - Use * to make it fuzzy
+

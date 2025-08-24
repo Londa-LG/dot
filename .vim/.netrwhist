@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/londa/Documents/Money_Web_Apps/High_School_Practice/Software/routers'
+let g:netrw_dirhist_8='/home/londa/Documents/Money_Web_Apps/High_School_Practice/Software'
+let g:netrw_dirhist_7='/home/londa/Documents/Money_Web_Apps/High_School_Practice/Software/routers'
+let g:netrw_dirhist_6='/home/londa/Documents/Money_Web_Apps/High_School_Practice/Software'
+let g:netrw_dirhist_5='/home/londa/Documents/Docs/python/docs-pdf'
+let g:netrw_dirhist_4='/home/londa/Documents/Code/Python/Games/Space-Shooter'
+let g:netrw_dirhist_3='/home/londa/Documents/Github/eduTrack/application/EdTrack3/webapp'
+let g:netrw_dirhist_2='/home/londa/Documents/Github/eduTrack/application/EdTrack3'
+let g:netrw_dirhist_1='/home/londa/Documents/Code/Python/deepFace/known'
+let g:netrw_dirhist_0='/home/londa/Documents/Github/eduTrack/faceRecognition/EdTrack3'
